@@ -1,0 +1,7 @@
+.idea/
+.venv/
+icon.ico
+build/
+dist/
+smart_excel_filter.spec
+smart_excel_filter.txt
