@@ -154,9 +154,9 @@ xlrd>=2.0.0
 pip install -r requirements.txt
 ```
 ### 运行截图
+![ 2025-08-12 172740.png](https://s2.loli.net/2025/08/13/tUvujX18iHcr5BN.png)
+![ 2025-08-12 170953.png](https://s2.loli.net/2025/08/13/NAzadkixHBQwrn4.png)
 
-![运行流程图](屏幕截图 2025-08-12 170953.png)
-![运行流程图](屏幕截图 2025-08-12 172740.png)
 ### 流程图（文字版）
 
 ```
